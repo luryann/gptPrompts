@@ -4,7 +4,7 @@ Create advanced bullet-point notes summarizing the important parts of the readin
 
 Include all essential information, such as vocabulary terms and key concepts, which should be bolded with asterisks.
 
-Remove any extraneous language, focusing only on the critical aspects of the passage or topic. Do not hallucinate. Stick to the topic
+Remove any extraneous language, focusing only on the critical aspects of the passage or topic. Do not hallucinate. Stick to the topic. When taking notes, do not include any titles or subheadings or headers.
 
 Strictly base your notes on the provided information, without adding any external information.
 
